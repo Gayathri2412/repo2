@@ -1,10 +1,11 @@
-This is the version 1 for file1
+This is the version 2 for file1
 
 GIT 
 Push the file from local to remote
 Steps:
 Process: Local -> Staging area(Index) -> Remote
 Prerequisites:
+#This is change 1
 Steps:
 (If u wish to u can start with creating a new directory on your system desired location)
 Mkdir <directoryname>
@@ -14,6 +15,7 @@ Now add file from
 local repository -> Staging area: 
 git status [This command is used to check the status of the file stages]
 Commands are
+#This is change 2
 Git add <filename> [ To add one single file]
 Git add <filename> <filename> <filename> [To add multiple files at the same time]
 Git add . [To add all the files to staging area at the same time] 
